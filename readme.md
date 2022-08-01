@@ -14,4 +14,4 @@ Key Findings:
 
 
 
-<img src="https://github.com/DrDataPsych/Spotify/blob/master/design_1_2_wordcloud.png" width=450 align=left> <img src="https://github.com/DrDataPsych/Spotify/blob/master/design_4_5_wordcloud.png" width=450 align=right>
+<img src="https://github.com/DrDataPsych/Spotify/blob/master/design_1_2_wordcloud.png" alt="Worcloud for Ratings 1-2" />width=450 align=left> <img src="https://github.com/DrDataPsych/Spotify/blob/master/design_4_5_wordcloud.png" alt="Worcloud for Ratings 4-5" width=450 align=right>
