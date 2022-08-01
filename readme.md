@@ -13,5 +13,5 @@ Key Findings:
 - A more specific approach (qualitative interviews) seems to be the better approach
 
 
-
-<img src="https://github.com/DrDataPsych/Spotify/blob/master/design_1_2_wordcloud.png" text=IMPORTANT! width=450 align=left> <img src="https://github.com/DrDataPsych/Spotify/blob/master/design_4_5_wordcloud.png" alt="Worcloud for Ratings 4-5" width=450 align=right>
+Worcloud for Ratings 1-2                                                                                                   Worcloud for Ratings 3-4
+<img src="https://github.com/DrDataPsych/Spotify/blob/master/design_1_2_wordcloud.png" alt="Worcloud for Ratings 1-2" width=450 align=left> <img src="https://github.com/DrDataPsych/Spotify/blob/master/design_4_5_wordcloud.png" alt="Worcloud for Ratings 4-5" width=450 align=right>
