@@ -15,7 +15,7 @@ Key Findings:
 Comparing Worcloud for Ratings 1-2 (white) vs Worcloud for Ratings 4-5 (green)
 
 <img
-  src="/Spotify/blob/master/design_1_2_wordcloud.png"
+  src="https://github.com/DrDataPsych/Spotify/blob/master/design_1_2_wordcloud.png"
   alt="Wordcloud for Rating 1-2"
   title="Wordcloud for Rating 1-2"
   style="display: inline-block; margin: 0 auto; max-width: 400px">
