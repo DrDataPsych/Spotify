@@ -11,3 +11,7 @@ Key Findings:
 - The information content seems to vary a lot within the reviews
 - The wordcloud is not the ideal way to analyze reviews from the PlayStore
 - A more specific approach (qualitative interviews) seems to be the better approach
+
+
+
+<img src="https://github.com/DrDataPsych/Spotify/blob/master/design_1_2_wordcloud.png" width=450 align=left> <img src="https://github.com/DrDataPsych/Spotify/blob/master/design_4_5_wordcloud.png" width=450 align=right>
