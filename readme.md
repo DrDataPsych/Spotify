@@ -12,6 +12,6 @@ Key Findings:
 - The wordcloud is not the ideal way to analyze reviews from the PlayStore
 - A more specific approach (qualitative interviews) seems to be the better approach
 
+Comparing Worcloud for Ratings 1-2 (white) vs Worcloud for Ratings 4-5 (green)
 
-Worcloud for Ratings 1-2                                                                                                   Worcloud for Ratings 3-4
 <img src="https://github.com/DrDataPsych/Spotify/blob/master/design_1_2_wordcloud.png" alt="Worcloud for Ratings 1-2" width=450 align=left> <img src="https://github.com/DrDataPsych/Spotify/blob/master/design_4_5_wordcloud.png" alt="Worcloud for Ratings 4-5" width=450 align=right>
